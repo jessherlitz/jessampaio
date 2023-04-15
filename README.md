@@ -1,4 +1,4 @@
-Hi, I'm Jess! ☺
+Hi, I'm Jess! :)
 
 For the past year, I've been learning SQL, Python, Django, Javascript, Typescript, Node, RESTful APIs, React, Redux, Jest, Webpack, HTML, CSS, Bootstrap, SASS, Git and Docker.
 
