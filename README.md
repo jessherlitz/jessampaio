@@ -6,4 +6,3 @@ On my spare time I'm either working out, watching people play video games online
 
 I'm based in Manhattan, living with my husband and our baby cat Chucky. 🐈
 
-Programming languages I'd like to explore in the future: C++, Go, Rust.
