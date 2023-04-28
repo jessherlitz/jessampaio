@@ -8,4 +8,5 @@ Before all this, I used to be a Tax Attorney in Brazil lol!
 
 On my spare time I'm either working out, watching people play video games online, exploring new restaurants in the city or studying Math.
 
-I'm based in Manhattan, NY.
+
+I've lived in São Paulo, Rio, Chicago and I'm currently based in Manhattan, NY.
