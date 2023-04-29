@@ -1,8 +1,8 @@
 Hi! I'm Jess! :3
 
-For the past year, I've been learning SQL, Python, Django, Javascript, Typescript, Node, RESTful APIs, GraphQL, React, React Native, Go, Jest, Webpack, HTML, CSS, Bootstrap, SASS, Git, Kubernetes and Docker.
+For the past year, I've been learning SQL, Python, Django, Javascript, Typescript, Node, RESTful APIs, GraphQL, React, React Native, Go, Jest, Webpack, HTML, CSS, Git, Kubernetes and Docker.
 
-I would like to learn Rust and C++ someday in the future after I've got a solid grasp on what I'm currently learning. Might take awhile though.. 😆 but I'll get there!
+I would like to learn Rust someday in the future after I've got a solid grasp on what I'm currently learning. Might take awhile though.. 😆 but I'll get there!
 
 Before all this, I was a boring Tax Attorney in Brazil lol!
 
