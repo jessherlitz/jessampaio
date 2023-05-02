@@ -6,6 +6,8 @@ I've been dedicating some time to learn Data Structures and Algorithms, focusing
 
 On my spare time I'm either working out, watching people play video games online, exploring new restaurants in the city or studying Math.
 
-I've been playing around with Go and Rust out of curiosity on my down time as well :) 
+I've been playing around with Go and Rust out of curiosity on my down time as well :)
+
+I'm most interested in web development but i would enjoy coding up a game one of these days.
 
 I've lived in São Paulo, Rio, Chicago and I'm currently based in Manhattan, NY.
