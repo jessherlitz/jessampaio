@@ -4,7 +4,7 @@ For the past year, I've been learning SQL, Python, Django, Javascript, Typescrip
 
 I've been playing around with Go and Rust out of curiosity on my down time as well :)
 
-I'm looking to pursue a second degree in Computer Science this coming Fall!
+I'm starting my second degree in Computer Science this coming Fall!
 
 On my spare time I'm either working out, watching people play video games online, exploring new restaurants in the city or studying Math.
 
