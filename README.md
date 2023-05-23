@@ -8,4 +8,4 @@ I'm starting my second degree in Computer Science this coming Fall!
 
 On my spare time I'm either working out, watching people play video games online, exploring new restaurants in the city or studying Math.
 
-I'm currently based in Manhattan, NY. 👾
+I'm currently based in Manhattan, NY. 
