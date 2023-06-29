@@ -1,1 +1,1 @@
-Computer Science @ Auburn University
+Computer Science Student @ Auburn University
